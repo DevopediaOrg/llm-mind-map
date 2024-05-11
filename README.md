@@ -4,4 +4,6 @@
 - Links from mind maps should point to only articles on [Devopedia](https://devopedia.org)
 - Use [Draw.io](https://draw.io) to edit the SVG files
 
+***
+
 ![llm-mind-map ](/llm-mind-map.svg)
